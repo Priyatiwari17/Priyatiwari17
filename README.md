@@ -8,13 +8,13 @@
 Priyatiwari17/Priyatiwari17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-(https://in.images.search.yahoo.com/search/images;_ylt=Awrx.126NZxk9EgZkFS9HAx.;_ylu=c2VjA3NlYXJjaARzbGsDYXNzaXN0;_ylc=X1MDMjExNDcyMzAwNQRfcgMyBGZyA21jYWZlZQRmcjIDc2EtZ3Atc2VhcmNoBGdwcmlkAzVpTEFhV1BvU055MTZKajhweW9BNUEEbl9yc2x0AzAEbl9zdWdnAzMEb3JpZ2luA2luLmltYWdlcy5zZWFyY2gueWFob28uY29tBHBvcwMxBHBxc3RyA3NvZnR3YXJlIGVuZ2luZWVyIHdhbGxwYXBlciBmb3IgZ2kEcHFzdHJsAzM0BHFzdHJsAzM3BHF1ZXJ5A3NvZnR3YXJlJTIwZW5naW5lZXIlMjB3YWxscGFwZXIlMjBmb3IlMjBnaXJscwR0X3N0bXADMTY4Nzk1ODg4OAR1c2VfY2FzZQM)
+
 <h1 align="center">Hi 👋, I'm Priya Tiwari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 (https://img.freepik.com/free-vector/female-programmer-doing-her-job-office_23-2148274929.jpg?)w=740&t=st=1687947824~exp=1687948424~hmac=9b990bca13144683fe1388c2cae9c03d9a868bf646197bccb8f97cb21bf1670d
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyatiwari17&label=Profile%20views&color=0e75b6&style=flat" alt="priyatiwari17" /> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=priyatiwari17&label=Profile%20views&color=0e75b6&style=flat" alt="priyatiwari17" /></p>
 
 - 🔭 I’m currently working on **Calculator**
 
