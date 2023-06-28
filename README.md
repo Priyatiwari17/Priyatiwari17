@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Priya Tiwari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-(https://img.freepik.com/free-vector/female-programmer-doing-her-job-office_23-2148274929.jpg?)w=740&t=st=1687947824~exp=1687948424~hmac=9b990bca13144683fe1388c2cae9c03d9a868bf646197bccb8f97cb21bf1670d
+(https://img.freepik.com/free-vector/female-programmer-doing-her-job-office_23-2148274929.jpg?)w=740&t=st=1687947824~exp=1687948424~hmac=9b990bca13144683fe1388c2cae9c03d9a868bf646197bccb8f97cb21bf1670d)
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=priyatiwari17&label=Profile%20views&color=0e75b6&style=flat" alt="priyatiwari17" /></p>
 
