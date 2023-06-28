@@ -8,11 +8,11 @@
 Priyatiwari17/Priyatiwari17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif
-h1 align="center">Hi 👋, I'm Priya Tiwari</h1>
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)
+<h1 align="center">Hi 👋, I'm Priya Tiwari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-https://img.freepik.com/free-vector/female-programmer-doing-her-job-office_23-2148274929.jpg?w=740&t=st=1687947824~exp=1687948424~hmac=9b990bca13144683fe1388c2cae9c03d9a868bf646197bccb8f97cb21bf1670d
+(https://img.freepik.com/free-vector/female-programmer-doing-her-job-office_23-2148274929.jpg?)w=740&t=st=1687947824~exp=1687948424~hmac=9b990bca13144683fe1388c2cae9c03d9a868bf646197bccb8f97cb21bf1670d
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyatiwari17&label=Profile%20views&color=0e75b6&style=flat" alt="priyatiwari17" /> </p>
 
@@ -39,3 +39,5 @@ https://img.freepik.com/free-vector/female-programmer-doing-her-job-office_23-21
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyatiwari17&show_icons=true&locale=en" alt="priyatiwari17" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyatiwari17&" alt="priyatiwari17" /></p>
+
+
