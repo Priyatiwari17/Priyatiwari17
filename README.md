@@ -1,5 +1,5 @@
 - 👋 Hi💃 I’m @Priyatiwari17
-- i am looking to collaborate on Open Source Project
+- I am looking to collaborate on Open Source Project
 - 👀 I’m interested listening songs ,singing and creating website 
 - 🌱 I’m currently learning React//bootstrap//
 
