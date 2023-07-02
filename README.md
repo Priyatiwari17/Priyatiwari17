@@ -25,8 +25,8 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/priya-tiwari-497241267" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priya-tiwari-497241267" height="30" width="40" /></a>
-<a href="https://instagram.com/__shre.ya.tripathi__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__shre.ya.tripathi__" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/priya-tiwari-497241267" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priya-tiwari-497241267" height="30" width="40"/></a>
+<a href="https://instagram.com/__shre.ya.tripathi__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" al="__shre.ya.tripathi__" height="30" width="40 /></a>
 <a href="https://www.youtube.com/c/she-skywalker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="she-skywalker" height="30" width="40" /></a>
 </p>
 
